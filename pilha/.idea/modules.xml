@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp_SpreadJava.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp_SpreadJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilha.iml" filepath="$PROJECT_DIR$/pilha.iml" />
     </modules>
   </component>
 </project>
